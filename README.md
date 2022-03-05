@@ -1,6 +1,6 @@
-# LeaderF-marks
+# LeaderF-map
 
-LeaderF extension for navigate the marks.
+LeaderF extension for navigate the maps.
 
 ## Requirements
 
